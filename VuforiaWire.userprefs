@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CollisionDetector.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CollisionDetector.cs" Line="31" Column="68" />
+      <File FileName="Assets\Scripts\Tags.cs" Line="10" Column="29" />
+      <File FileName="Assets\Scripts\Spin.cs" Line="10" Column="34" />
+      <File FileName="Assets\Scripts\MonkeyColor.cs" Line="24" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
